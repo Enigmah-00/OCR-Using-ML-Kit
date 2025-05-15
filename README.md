@@ -23,6 +23,9 @@ The primary goal of this project is to build an efficient and accurate OCR syste
 - Multi-language Support
 - Easy-to-use Interface
 ## 6. Expected Outcomes
-We aim to deliver a fully functional mobile OCR application that offers: - Accurate text extraction from images - Support for various fonts and handwriting styles - High performance with minimal latency
+We aim to deliver a fully functional mobile OCR application that offers:
+- Accurate text extraction from images 
+- Support for various fonts and handwriting styles 
+- High performance with minimal latency
 ## 7. Conclusion
 This OCR project utilizing ML Kit holds immense potential in simplifying data entry, document scanning, and accessibility applications. By leveraging machine learning on mobile, we aim to create a lightweight yet powerful tool for text recognition.
